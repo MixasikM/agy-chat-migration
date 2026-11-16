@@ -1,0 +1,16 @@
+{
+  "name": "agy-chat-migration",
+  "displayName": "Antigravity Chat & Project Migration",
+  "version": "1.0.0",
+  "description": "Universal toolkit and runbook for migrating, relinking, adopting, splitting, and synchronizing Antigravity conversations and projects across directories, projects, editions (IDE/Desktop/CLI), and operating systems (Windows/Linux/macOS).",
+  "author": {
+    "name": "MixasikM",
+    "url": "https://github.com/MixasikM"
+  },
+  "repository": "https://github.com/MixasikM/agy-chat-migration",
+  "suggestedPrompts": [
+    "Audit this Antigravity project and its conversations before migrating or moving it",
+    "Find unbound Outside-of-Project or legacy IDE chats and move them into a target project",
+    "Export this project's conversation capsule and show how to import and relink it on another machine"
+  ]
+}
